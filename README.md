@@ -1,16 +1,62 @@
-# React + Vite
+# ⚡️ OutThere
+**Version: 0.1.0 Beta**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> [!WARNING]
+> **This is a Beta release.** Since this is the very first version of **OutThere**, you **WILL** experience bugs. Features like the global leaderboard are currently simulated, and your progress is saved locally to your browser. Clearing your browser cache will reset your progress.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> **The world is your playground.** **OutThere** is a mobile-first Progressive Web App (PWA) designed to turn your daily life into a series of interactive side quests. From mild social interactions to "Federal" level absurdity, this app gamifies your reality.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+* **🎲 Quest Generator**: Uses a weighted randomizer to serve quests ranging from Easy to Unhinged.
+* **📱 Native PWA Experience**: Added to the iOS/Android home screen with fullscreen mode and custom icons.
+* **🌍 Multi-language Support**: Fully translated into **English** and **Dutch**.
+* **🎨 Theme Engine**: Includes Dark, Neon, OLED, and Retro themes.
+* **📊 Local Persistence**: All points, history, and settings are saved to your device's `localStorage`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+* **Framework**: [React](https://reactjs.org/)
+* **Build Tool**: [Vite](https://vitejs.dev/)
+* **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+* **Deployment**: [Vercel](https://vercel.com/)
+
+---
+
+## 🚀 Getting Started
+
+### Installation
+1.  **Clone the repository**:
+    ```bash
+    git clone [https://github.com/notrobbertjan/OutThere.git](https://github.com/notrobbertjan/OutThere.git)
+    ```
+2.  **Install dependencies**:
+    ```bash
+    npm install --legacy-peer-deps
+    ```
+
+3.  **Run locally**:
+    ```bash
+    npm run dev
+    ```
+
+---
+
+## 📱 Mobile Installation (iOS)
+
+1.  Open the [Live URL](https://outthere.vercel.app) in **Safari**.
+2.  Tap the **Share** button.
+3.  Select **"Add to Home Screen"**.
+
+---
+
+## 👤 Author
+
+**Robbert-Jan**
+* GitHub: [@notrobbertjan](https://github.com/notrobbertjan)
