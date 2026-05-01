@@ -14,8 +14,6 @@
 
 * **🎲 Quest Generator**: Uses a weighted randomizer to serve quests ranging from Easy to Unhinged.
 * **📱 Native PWA Experience**: Added to the iOS/Android home screen with fullscreen mode and custom icons.
-* **🌍 Multi-language Support**: Fully translated into **English** and **Dutch**.
-* **🎨 Theme Engine**: Includes Dark, Neon, OLED, and Retro themes.
 * **📊 Local Persistence**: All points, history, and settings are saved to your device's `localStorage`.
 
 ---
@@ -50,7 +48,7 @@
 
 ## 📱 Mobile Installation (iOS)
 
-1.  Open the [Live URL](https://outthere.vercel.app) in **Safari**.
+1.  Open the [Live URL](https://out-there-eight.vercel.app) in **Safari**.
 2.  Tap the **Share** button.
 3.  Select **"Add to Home Screen"**.
 
