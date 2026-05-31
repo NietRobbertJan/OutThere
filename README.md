@@ -32,7 +32,7 @@
 ### Installation
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/notrobbertjan/OutThere.git](https://github.com/notrobbertjan/OutThere.git)
+    git clone [https://github.com/nietrobbertjan/OutThere.git](https://github.com/nietrobbertjan/OutThere.git)
     ```
 2.  **Install dependencies**:
     ```bash
@@ -57,4 +57,4 @@
 ## 👤 Author
 
 **Robbert-Jan**
-* GitHub: [@notrobbertjan](https://github.com/notrobbertjan)
+* GitHub: [@nietrobbertjan](https://github.com/nietrobbertjan)
