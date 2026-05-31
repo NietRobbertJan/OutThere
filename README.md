@@ -48,7 +48,7 @@
 
 ## 📱 Mobile Installation (iOS)
 
-1.  Open the [Live URL](https://out-there-eight.vercel.app) in **Safari**.
+1.  Open the [Live URL](https://out-there-eta.vercel.app) in **Safari**.
 2.  Tap the **Share** button.
 3.  Select **"Add to Home Screen"**.
 
